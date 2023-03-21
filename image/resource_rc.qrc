@@ -1,0 +1,18 @@
+<RCC>
+  <qresource prefix="recurce">
+    <file>Padavan_l1_1_image.png</file>
+    <file>Padavan_l1_3_image.png</file>
+    <file>Padavan_l1_2_image.png</file>
+    <file>book_btn.png</file>
+    <file>home.png</file>
+    <file>map.png</file>
+    <file>next_btn.png</file>
+    <file>btn_Down.png</file>
+    <file>coolicon.png</file>
+    <file>flag Pic.jpg</file>
+    <file>book.png</file>
+    <file>arrow.png</file>
+    <file>icon.png</file>
+    <file>logo.png</file>
+  </qresource>
+</RCC>
